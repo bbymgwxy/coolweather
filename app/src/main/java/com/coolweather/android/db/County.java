@@ -6,7 +6,7 @@ import org.litepal.crud.DataSupport;
  * Created by lenovo on 2017/10/30.
  */
 
-public class Country extends DataSupport {
+public class County extends DataSupport {
     private int id;
 
     private String countyName;
